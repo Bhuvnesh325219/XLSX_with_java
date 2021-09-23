@@ -1,0 +1,12 @@
+
+1 Ethan Thomas New_York 0.131770863 
+2 Grayson Wood Dallas 0.030167128 
+3 Carter Anderson Phoenix 0.300322924 
+4 Charlotte Jones Austin 0.174925433 
+5 Aubrey Robinson Charlotte 0.28172674 
+6 Amelia Taylor Seattle 0.455447993 
+7 Aiden Hill Los_Angeles 0.428197863 
+8 Aria Smith San_Antonio 0.96931073 
+9 Emma Martin Philadelphia 0.662610909 
+10 Elijah Wright Chicago 0.545732169
+
